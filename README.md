@@ -25,7 +25,7 @@ Gameplay & tools programmer, currently finishing up Digital Multimedia Engineeri
 ## what i'm building
 
 - **Demeter**, a cozy farming sim competition project, built around dynamic economy, crop management, and relationships that actually affect the market
-- **Oneiric Playmaker**, a framework to build story driven games (mainly visual novel. only visual novel actually). was an idea for my thesis actually. 
+- **Oneiric Playmaker**, a framework to build story driven games (mainly visual novel. only visual novel actually). was an idea for my thesis. 
 - **Monomer**, a voxel engine, built from scratch with Odin and SDL GPU, because why not
 - There is of course, a lot of other projects i made. maybe it's public, maybe it's not. Check out my portofolio to know more~
 
