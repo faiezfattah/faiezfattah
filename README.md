@@ -34,7 +34,7 @@ Gameplay & tools programmer, currently finishing up Digital Multimedia Engineeri
 ## elsewhere
 
 - 🌐 portfolio: [faiezfattah.github.io](https://faiezfattah.github.io)
-- 💼 LinkedIn: [add your profile link here]
+- 💼 LinkedIn: [faiez fattah](https://www.linkedin.com/in/faiez-fattah-530111198/)
 
 ---
 
